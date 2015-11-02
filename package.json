@@ -1,0 +1,10 @@
+{
+	"name" : "1955api", 
+	"description" : "assignmet : build a simple API server and communicate with it directly over URL requests", 
+	"dependencies" : {
+		"express" : "latest", 
+		"mongoose" : "latest", 
+		"path" : "latest",
+		"body-parser" : "latest"
+	}
+}
